@@ -1,5 +1,12 @@
 'use strict';
 
+//TODO:
+//BUGS🐞:
+//FIX AGAIN BUTTON: 1.SCORE DOES NOT RESET 2.SECRET NUMBER DOES NOT RESET
+
+//FEATURES:
+// IMPLEMENT HIGHCORE FEATURE
+
 const secretNumber = Math.trunc(Math.random() * 20 + 1);
 let score = 20;
 let number;
